@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zad-100 (Akash Parida)
 - 👀 I’m interested in Artificial Intelligence and related fields.
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning Mahchine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on nothing right now... 😅😂
 - 📫 How to reach me :-
 
